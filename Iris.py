@@ -3,7 +3,7 @@ import math
 import random
 import numpy as np
 
-#try building own KNN abd
+#try building own KNN
 
 class OwnKNN():
     def dist(self, first, second):
